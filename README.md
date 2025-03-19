@@ -1,5 +1,5 @@
 Overview
-This project implements a Genetic Algorithm (GA) for optimizing rocket designs, specifically focusing on selecting the best combination of booster types, engine configurations, and other design parameters to achieve a target altitude. The algorithm aims to evolve a population of rocket designs across multiple generations, improving the design based on fitness evaluations that consider various physical parameters (such as velocity, acceleration, pressure, and altitude).
+This project implements a Genetic Algorithm (GA) for optimizing rocket designs for RocketSim2.exe (developed by Dr. Cameron Turner), specifically focusing on selecting the best combination of booster types, engine configurations, and other design parameters to achieve a target altitude. The algorithm aims to evolve a population of rocket designs across multiple generations, improving the design based on fitness evaluations that consider various physical parameters (such as velocity, acceleration, pressure, and altitude).
 
 Key Features:
 Genetic Algorithm: Uses selection, crossover, and mutation to evolve a population of rocket designs.
